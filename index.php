@@ -2,3 +2,4 @@
 <? echo 'master'; ?>
 <? echo 'bugfix'; ?>
 <? echo 'new' ?>
+<? echo 'new' ?>
