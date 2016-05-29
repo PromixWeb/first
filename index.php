@@ -1,2 +1,2 @@
 <? echo 1; ?>
-<? echo 'bugfix2'; ?>
+<? echo 'bugfix'; ?>
