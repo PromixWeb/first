@@ -3,3 +3,4 @@
 <? echo 'bugfix'; ?>
 <? echo 'new' ?>
 <? echo 'new' ?>
+<? echo 'new2' ?>
