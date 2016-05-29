@@ -1,2 +1,3 @@
 <? echo 1; ?>
 <? echo 'master'; ?>
+<? echo 'bugfix'; ?>
